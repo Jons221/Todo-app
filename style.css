@@ -1,0 +1,44 @@
+body{
+    background-image: url("img/background.png");
+    
+}
+
+.title
+{
+    text-align: center;
+    margin: 1px;
+    height: 35px;
+    background-color: aqua;
+    font-size: 8mm;
+}
+.pull input
+{
+    display: block;
+    margin-top: 8px;
+}
+
+.pull-right
+{
+    float: right;
+}
+.image-logo
+{
+    margin: 0px;
+    width: 52px;
+    height: auto;
+    float: left;
+}
+.text
+{
+    color: aqua;
+}
+.input
+{
+    margin: 30px;
+    padding: 100px;
+    height: 100px;
+    background-color: white;
+    font-size: 10mm;
+    color: blue;
+
+}
